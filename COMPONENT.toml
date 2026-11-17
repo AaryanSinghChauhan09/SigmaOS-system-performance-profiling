@@ -3,7 +3,7 @@ name = "SigmaOS-system-performance-profiling"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "system-performance-profiling component"
+description = "System Performance Profiling"
 upstream = []
 
 [contract]
